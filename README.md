@@ -44,7 +44,7 @@ console.log('cookies::', cookies); // _ga=GA1.2.686576916.1660229610; _gid=GA1.2
 
 ## API
 
-#### setOptions(cookieOpts) :voids
+#### setOptions(cookieOpts) :void
 ```js
 interface CookieOpts {
   domain?: string;
