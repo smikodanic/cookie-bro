@@ -1,0 +1,19 @@
+{
+  "name": "cookie-bro",
+  "version": "1.0.0",
+  "title": "Cookie Browser",
+  "description": "Library which helps with cookie management in the Browser environment.",
+  "keywords": [
+    "cookie",
+    "cookies",
+    "browser"
+  ],
+  "author": "Saša Mikodanić",
+  "license": "AGPL-3.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:smikodanic/cookie-bro.git"
+  },
+  "dependencies": {}
+}
